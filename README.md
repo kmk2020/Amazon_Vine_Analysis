@@ -47,7 +47,7 @@ Above snapshot dispalys the count for each kind of review after a filtered dataf
 
 ![image](https://user-images.githubusercontent.com/89704371/180048458-d2e32e8f-b909-4edd-a55b-c389c431bc5a.png)
 
-There were  24673 no vine reviews and almost zer vine reviews with 5 stars.
+There were  24673 no vine reviews and almost zero vine reviews with 5 stars.
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
@@ -55,8 +55,13 @@ There were  24673 no vine reviews and almost zer vine reviews with 5 stars.
 
 Non vine reviews had a percentage of 0.13 % while the rest had a close to none percentage.
 
+## Summary
 
+The data is biased. The reviews are mostly non-vine reviews. This is biased sice we dont get to analyze with the vine reviews and make quality comparisons.
 
+## Recommendations
+
+The study would need to redesigned to products that have a specific threshhold of reviews . The best way to adjust this is to use a data set that is less bised and includes both vine reviews and non vine reviews.
 
 
 
