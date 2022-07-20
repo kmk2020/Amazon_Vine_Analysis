@@ -25,11 +25,38 @@ In this project,we have access to approximately 50 datasets. Each one contains r
 * Google Colab
 * GitHub
 * GitBash
+* Python Programming Languauge
 * Amazon AWS(S3 & RDS )
 
-Data sources
+### Data sources
+
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
+
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Ebook_Purchase_v1_00.tsv.gz
 
 ## Results
+
+### How many Vine reviews and non-Vine reviews were there?
+
+![image](https://user-images.githubusercontent.com/89704371/180047532-961bff0f-386d-493d-bde8-70bf1623d211.png)
+
+Above snapshot dispalys the count for each kind of review after a filtered dataframe.  Most of the reviews were no-vine reviews. And from the image it can be noted that for this review dataset there were no vines.
+
+
+### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+![image](https://user-images.githubusercontent.com/89704371/180048458-d2e32e8f-b909-4edd-a55b-c389c431bc5a.png)
+
+There were  24673 no vine reviews and almost zer vine reviews with 5 stars.
+
+### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+![image](https://user-images.githubusercontent.com/89704371/180049099-f93cc77f-9501-444c-b8b2-3e3142d0e1e8.png)
+
+Non vine reviews had a percentage of 0.13 % while the rest had a close to none percentage.
+
+
+
 
 
 
